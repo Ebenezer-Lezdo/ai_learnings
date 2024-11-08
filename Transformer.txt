@@ -1,7 +1,3 @@
-####### 
-       how does transformer improves upon previous models like RNN ?
-                                                                     ######### 
-  Transformers offer several significant improvements over previous models like Recurrent Neural Networks (RNNs) and Long Short-Term Memory networks (LSTMs). Here are the key enhancements:
 
 ### 1. **Parallelization**
 - **Transformers**: Unlike RNNs, which process sequences sequentially (one time step at a time), transformers allow for parallel processing of tokens. This significantly speeds up training since multiple tokens can be processed simultaneously.
